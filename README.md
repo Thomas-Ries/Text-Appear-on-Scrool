@@ -18,6 +18,6 @@ It's not responsive.
 
 # Screenshots
 
-![alt tag](https://user-images.githubusercontent.com/73991398/109471013-71da7480-7a70-11eb-94e0-245957a8b40e.PNG)
+![alt tag](https://user-images.githubusercontent.com/73991398/109472067-f1b50e80-7a71-11eb-9c5b-d3dc37f323ac.PNG)
 
-![alt tag](https://user-images.githubusercontent.com/73991398/109471011-7141de00-7a70-11eb-9cb7-0717ccfe3c87.PNG)
+![alt tag](https://user-images.githubusercontent.com/73991398/109472070-f37ed200-7a71-11eb-95aa-0ff3f2d7e011.PNG)
