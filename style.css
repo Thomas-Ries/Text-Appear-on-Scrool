@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+    font-size: 10px;
+    font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+header img {
+    height: 100vh;
+    width: 100%;
+    object-fit: cover;
+}
+
+.intro {
+    width: 160rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.intro-title {
+    text-align: center;
+    margin: 8rem 0 10rem 0;
+}
+
+.intro-title h2 {
+    font-size: 3rem;
+}
+
+.intro-content {
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10rem;
+}
+
+.intro-content img {
+    height: 70rem;
+    width: 80rem;
+}
+
+
+.intro-text {
+    width: 30%;
+    margin-left: 5rem;;
+    opacity: 0;
+    transform: translateY(5rem);
+    transition: 0.5s all ease-in-out;
+}
+
+.intro-appear {
+    opacity: 1;
+    transform: translateY(0px);
+}
+
+.intro-text h2 {
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 2rem;
+}
+
+.intro-text p {
+    font-size: 1.5rem;
+    text-align: justify;
+    line-height: 2.2rem;
+}
